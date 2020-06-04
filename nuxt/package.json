@@ -1,0 +1,14 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "dev": "nuxt"
+    },
+    "dependencies": {
+        "axios": "^0.19.2",
+        "nuxt": "^2.12.2"
+    },
+    "devDependencies": {
+        "node-sass": "^4.14.1",
+        "sass-loader": "^8.0.2"
+    }
+}
