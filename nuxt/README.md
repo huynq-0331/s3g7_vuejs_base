@@ -20,3 +20,11 @@ The `package.json` file contain application dependencies adn scripts.
 
 # Run project
 `npm run dev`
+
+# Tips
+## Using font-awesome in Nuxt
+### 1.Custom 
+> https://stackoverflow.com/questions/54617007/how-to-use-font-awesome-5-icons-in-element-ui
+
+### 2.Component Vue
+> https://medium.com/@kozyreva.hanna/nuxt-js-fontawesome-integration-7ec56b1a41c8
